@@ -12,7 +12,6 @@
 [![Python Version](https://img.shields.io/badge/Python-3.6%2B-blue?style=for-the-badge&logo=python)](https://python.org)
 [![Platform](https://img.shields.io/badge/Platform-Linux-lightgrey?style=for-the-badge&logo=linux)](https://www.kali.org)
 [![License](https://img.shields.io/badge/License-RX--TEAM%20Research-green?style=for-the-badge&logo=shield)](LICENSE)
-[![Follow](https://img.shields.io/github/followers/Rx19?style=for-the-badge&label=Follow%20Rx19&color=orange)](https://github.com/Rx19)
 
 <br>
 
