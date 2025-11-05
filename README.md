@@ -59,6 +59,7 @@
 - [Installation](#-installation)
 - [Usage](#-usage)
 - [Support](#-support)
+- [Development Team](#-development-team)
 - [Contributing](#-contributing)
 
 ## 🎯 Overview
