@@ -8,12 +8,50 @@
 
 **AI-Powered • Multi-OS • Real-Time Analytics**
 
-[![GitHub Release](https://img.shields.io/github/v/release/RX-TEAM/rx-wifi-pro?style=for-the-badge)](https://github.com/RX-TEAM/rx-wifi-pro/releases)
-[![Python Version](https://img.shields.io/badge/Python-3.6%2B-blue?style=for-the-badge)](https://python.org)
-[![Platform](https://img.shields.io/badge/Platform-Linux-lightgrey?style=for-the-badge)](https://www.kali.org)
-[![License](https://img.shields.io/badge/License-RX--TEAM%20Research-green?style=for-the-badge)](LICENSE)
+[![GitHub Release](https://img.shields.io/github/v/release/RX-TEAM/rx-wifi-pro?style=for-the-badge&logo=github)](https://github.com/RX-TEAM/rx-wifi-pro/releases)
+[![Python Version](https://img.shields.io/badge/Python-3.6%2B-blue?style=for-the-badge&logo=python)](https://python.org)
+[![Platform](https://img.shields.io/badge/Platform-Linux-lightgrey?style=for-the-badge&logo=linux)](https://www.kali.org)
+[![License](https://img.shields.io/badge/License-RX--TEAM%20Research-green?style=for-the-badge&logo=shield)](LICENSE)
+[![Follow](https://img.shields.io/github/followers/Rx19?style=for-the-badge&label=Follow%20Rx19&color=orange)](https://github.com/Rx19)
+
+<br>
+
+[![Download Latest](https://img.shields.io/badge/Download-Latest%20Release-success?style=for-the-badge&logo=download)](https://github.com/RX-TEAM/rx-wifi-pro/releases/latest)
+[![Report Bug](https://img.shields.io/badge/Report-Bug-critical?style=for-the-badge&logo=bug)](https://github.com/RX-TEAM/rx-wifi-pro/issues)
+[![Request Feature](https://img.shields.io/badge/Request-Feature-informational?style=for-the-badge&logo=lightbulb)](https://github.com/RX-TEAM/rx-wifi-pro/issues)
 
 </div>
+
+## ⚠️ IMPORTANT LEGAL WARNING
+
+<div align="center" style="background-color: #ff6b6b; padding: 15px; border-radius: 10px; border: 2px solid #ff5252;">
+
+### 🚨 **STRICT LEGAL NOTICE** 🚨
+
+**THIS TOOL IS FOR AUTHORIZED SECURITY TESTING AND EDUCATIONAL PURPOSES ONLY**
+
+</div>
+
+### 🔒 **Permitted Uses:**
+- ✅ Testing your own networks and devices
+- ✅ Authorized penetration testing with written permission
+- ✅ Academic research and cybersecurity education
+- ✅ Security awareness demonstrations
+
+### 🚫 **Strictly Prohibited:**
+- ❌ Unauthorized access to any networks
+- ❌ Testing networks without explicit owner consent
+- ❌ Illegal surveillance or data interception
+- ❌ Any malicious or criminal activities
+
+### ⚖️ **Legal Consequences:**
+- Unauthorized use may result in:
+  - Criminal prosecution
+  - Civil lawsuits
+  - Severe financial penalties
+  - Imprisonment in some jurisdictions
+
+**By using this tool, you acknowledge that you are solely responsible for ensuring legal and ethical usage. The developers assume no liability for misuse.**
 
 ## 📖 Table of Contents
 - [Overview](#-overview)
@@ -21,7 +59,7 @@
 - [Quick Start](#-quick-start)
 - [Installation](#-installation)
 - [Usage](#-usage)
-- [Legal](#-legal)
+- [Support](#-support)
 - [Contributing](#-contributing)
 
 ## 🎯 Overview
