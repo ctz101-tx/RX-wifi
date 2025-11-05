@@ -1,0 +1,10 @@
+```gitignore
+*.cap
+*.pcapng
+*.hash
+configs/WiFi__List-*.csv
+configs/passcrack.csv
+configs/passtemp.csv
+*.log
+airodump_files/
+captures/
