@@ -2,67 +2,72 @@
 
 <div align="center">
 
-![RX-Wifi Pro](main-menu-ascii.txt)
+![RX-TEAM Logo](rx-team.jpg)
 
-## Developed by CRZ101 - RX-TEAM
+## 🚀 Advanced WiFi Security Testing Tool
 
-<img src="crz.jpg" alt="CRZ101" width="200" height="200" style="border-radius: 50%; margin: 10px;">
-<img src="rx-team.jpg" alt="RX-TEAM" width="200" height="200" style="border-radius: 50%; margin: 10px;">
+**AI-Powered • Multi-OS • Real-Time Analytics**
 
-**CRZ101** | **RX-TEAM**  
-*Lead Developer* | *Security Research Group*  
-Parent Organization: **ANONYMOUS YEMEN**  
-**All rights reserved. RX-TEAM**
-
-[![Version](https://img.shields.io/badge/Version-v3.0-blue.svg)](https://github.com/RX-TEAM/rx-wifi-pro)
-[![License](https://img.shields.io/badge/License-RX--TEAM%20Research-green.svg)](LICENSE)
-[![Platform](https://img.shields.io/badge/Platform-Linux-red.svg)](https://github.com/RX-TEAM/rx-wifi-pro)
+[![GitHub Release](https://img.shields.io/github/v/release/RX-TEAM/rx-wifi-pro?style=for-the-badge)](https://github.com/RX-TEAM/rx-wifi-pro/releases)
+[![Python Version](https://img.shields.io/badge/Python-3.6%2B-blue?style=for-the-badge)](https://python.org)
+[![Platform](https://img.shields.io/badge/Platform-Linux-lightgrey?style=for-the-badge)](https://www.kali.org)
+[![License](https://img.shields.io/badge/License-RX--TEAM%20Research-green?style=for-the-badge)](LICENSE)
 
 </div>
 
-## 📋 Table of Contents
-- [✨ Features](#-features)
-- [🚀 Quick Start](#-quick-start)
-- [📥 Installation](#-installation)
-- [🎮 Usage Guide](#-usage-guide)
-- [⚔️ Attack Methods](#️-attack-methods)
-- [🛠️ Requirements](#️-requirements)
-- [⚠️ Legal Disclaimer](#️-legal-disclaimer)
-- [🤝 Contributing](#-contributing)
-- [📞 Support](#-support)
-- [📜 License](#-license)
+## 📖 Table of Contents
+- [Overview](#-overview)
+- [Features](#-features)
+- [Quick Start](#-quick-start)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Legal](#-legal)
+- [Contributing](#-contributing)
+
+## 🎯 Overview
+
+**RX-Wifi Pro** is an advanced, AI-powered WiFi security assessment tool designed for security researchers, penetration testers, and network administrators. It automates complex WiFi security testing procedures with intelligent analysis and parallel processing capabilities.
+
+> 🔍 **Professional Tool for Security Research and Authorized Testing**
 
 ## ✨ Features
 
-### 🔥 Core Attack Capabilities
-- **WPA/WPA2 Handshake Capture** - Advanced 4-way handshake detection and capture
-- **PMKID Attacks** - Modern attack vector without client deauthentication
-- **WPS Attacks** - Pixie Dust and brute force WPS pin attacks
-- **Parallel Multi-Target** - Simultaneous attacks on multiple networks
-- **Smart Wordlist Generation** - AI-powered password pattern analysis
+### 🔧 Core Capabilities
+- **📡 Monitor Mode Management** - Automatic interface configuration
+- **🌐 Network Discovery** - Comprehensive WiFi network scanning
+- **🤝 Handshake Capture** - WPA/WPA2 handshake interception
+- **🔓 Password Cracking** - Advanced dictionary and brute-force attacks
 
-### 🧠 Advanced Intelligence
-- **AI-Password Analysis** - Intelligent pattern recognition and prediction
-- **Historical Optimization** - Learning from previous success rates
-- **Adaptive Strategies** - Smart attack method selection
-- **ESSID-Based Generation** - Context-aware wordlist creation
+### ⚡ Advanced Attacks
+- **📶 WPS Attacks** - Pixie Dust and brute-force methods
+- **🔑 PMKID Attacks** - Modern PMKID capture and cracking
+- **⚡ Parallel Operations** - Multiple target simultaneous attacks
+- **🧠 AI Analysis** - Smart password pattern recognition
 
 ### 🛡️ Security & Stealth
-- **Stealth Mode** - MAC address randomization and anti-detection
-- **Real-time Monitoring** - Live signal strength and network analysis
-- **Encrypted Storage** - Secure AES-encrypted data storage
-- **Auto Backup System** - Automatic backup of results and configurations
-
-### 🌐 Multi-Platform Support
-- **Kali Linux** (Recommended)
-- **Ubuntu** 18.04+
-- **Debian** 10+
-- **Parrot OS**
-- **Arch Linux**
-- **Fedora/CentOS**
+- **🕵️ Stealth Mode** - Advanced anti-detection techniques
+- **📊 Real-Time Monitoring** - Live signal and network analysis
+- **🔒 Encrypted Storage** - Secure sensitive data handling
+- **🔄 Auto Backup** - Automatic result preservation
 
 ## 🚀 Quick Start
 
-### One-Command Installation & Execution
+### Prerequisites
+- Linux OS (Kali, Ubuntu, Debian, Parrot OS)
+- WiFi adapter supporting monitor mode
+- Root privileges
+- Python 3.6+
+
+### Basic Installation
 ```bash
-git clone https://github.com/RX-TEAM/rx-wifi-pro.git && cd rx-wifi-pro && sudo bash install.sh && sudo python3 rxwifi.py
+# Clone the repository
+git clone https://github.com/RX-TEAM/rx-wifi-pro.git
+
+# Navigate to directory
+cd rx-wifi-pro
+
+# Run installation script
+sudo bash install.sh
+
+# Launch the tool
+sudo python3 rxwifi.py
